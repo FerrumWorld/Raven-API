@@ -13,6 +13,9 @@
   "keywords": [
     "ravenapi"
   ],
+  "publishConfig": {
+  "@FerrumWorld:registry": "https://npm.pkg.github.com"
+  },
   "author": "FerrumWorld",
   "license": "ISC"
 }
